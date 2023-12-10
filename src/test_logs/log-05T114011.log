@@ -1,0 +1,4 @@
+2676 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/yevhenomelchenko/Library/Caches/JetBrains/IdeaIC2023.1/temp-testng-customsuite.xml
+
+13948 [main] INFO  com.ait.phonebook.tests.TestBase -- Start TestloginRegisterUserPositiveTest with dat: []

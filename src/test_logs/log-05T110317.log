@@ -1,0 +1,19 @@
+2499 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/yevhenomelchenko/Library/Caches/JetBrains/IdeaIC2023.1/temp-testng-customsuite.xml
+
+13620 [main] INFO  com.ait.phonebook.tests.TestBase -- Start TestaddNewContactFormDataProviderCSWPositiveTest with dat: [Contact{name='Oliver', mail='kan@mail.com'}]
+18218 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFormDataProviderCSWPositiveTest
+18218 [main] INFO  com.ait.phonebook.tests.TestBase -- Stop Test
+18218 [main] INFO  com.ait.phonebook.tests.TestBase -- ================================
+18221 [main] INFO  com.ait.phonebook.tests.TestBase -- Start TestaddNewContactFormDataProviderCSWPositiveTest with dat: [Contact{name='Oliver1', mail='kan@mail.com'}]
+31007 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFormDataProviderCSWPositiveTest
+31007 [main] INFO  com.ait.phonebook.tests.TestBase -- Stop Test
+31007 [main] INFO  com.ait.phonebook.tests.TestBase -- ================================
+31011 [main] INFO  com.ait.phonebook.tests.TestBase -- Start TestaddNewContactFormDataProviderCSWPositiveTest with dat: [Contact{name='Oliver2', mail='kan@mail.com'}]
+43453 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFormDataProviderCSWPositiveTest
+43468 [main] INFO  com.ait.phonebook.tests.TestBase -- Stop Test
+43469 [main] INFO  com.ait.phonebook.tests.TestBase -- ================================
+43490 [main] INFO  com.ait.phonebook.tests.TestBase -- Start TestaddNewContactFormDataProviderCSWPositiveTest with dat: [Contact{name='Oliver3', mail='kan@mail.com'}]
+56030 [main] INFO  com.ait.phonebook.tests.TestBase -- PASSED: addNewContactFormDataProviderCSWPositiveTest
+56031 [main] INFO  com.ait.phonebook.tests.TestBase -- Stop Test
+56031 [main] INFO  com.ait.phonebook.tests.TestBase -- ================================
